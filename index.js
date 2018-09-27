@@ -2,6 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 
 function not(booleanExpression) {
-	return !booleanExpression;
+	return ! booleanExpression;
 }
 exports.not = not;
