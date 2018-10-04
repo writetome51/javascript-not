@@ -1,14 +1,15 @@
 {
   "name": "@writetome51/not",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A better alternative to the sneaky exclamation point",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-   "negation",
-   "alternative"
+    "negation",
+    "alternative",
+    "boolean"
   ],
   "author": "Steve Thompson",
   "license": "FREE",

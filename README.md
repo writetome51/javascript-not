@@ -9,5 +9,3 @@ Well despair no more, my friends.  I give you...
 		return ! booleanExpression;
 	}
 
-
-It's the greatest invention since the shake-weight...  not() .
