@@ -1,4 +1,5 @@
-var not = require('./index');
+var not = require('./index').not;
+
 
 if (not(false)) console.log('test 1 passed');
 else console.log('test 1 failed');

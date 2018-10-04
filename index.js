@@ -4,4 +4,4 @@ Object.defineProperty(exports, "__esModule", { value: true });
 function not(booleanExpression) {
 	return ! booleanExpression;
 }
-module.exports = not;
+exports.not = not;
