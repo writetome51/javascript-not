@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/not",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A better alternative to the sneaky exclamation point",
   "main": "index.js",
   "scripts": {
