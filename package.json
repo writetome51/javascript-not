@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/not",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A better alternative to the sneaky exclamation point",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   ],
   "author": "Steve Thompson",
   "license": "FREE",
-  "homepage": "https://github.com/writetome51/not",
+  "homepage": "https://github.com/writetome51/javascript-not",
   "dependencies": {
   }
 }
