@@ -1,4 +1,4 @@
-var not = require('./index').not;
+import {not} from './index.js';
 
 
 if (not(false)) console.log('test 1 passed');
